@@ -1,2 +1,2 @@
-# Deep_Learning_Coursera
+# Deep Learning Coursera
 Repo for deeplearning.ai on coursera
